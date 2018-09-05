@@ -12,7 +12,9 @@
     <div class="col-xs-12 col-md-8">
         <ul>
             {% for blogArticle in blogArticles %}
-            <li>{{blogArticle.title}}</li>
+            <a href="{{blogArticle.id}}">
+                <li>{{blogArticle.title}}</li>
+            </a>
             {% endfor %}
         </ul>
     </div>

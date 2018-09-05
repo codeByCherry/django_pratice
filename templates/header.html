@@ -5,7 +5,7 @@
 
         <div class="navbar-header">
             <a class="navbar-brand" href="{% url 'blog:index' %}">
-                <img src="{% static 'images/a_icon.jgp' %}" alt="logo" width="100px">
+                <img src="{% static 'images/favicon.ico' %}" alt="logo" width="20px">
             </a>
         </div>
 
@@ -16,7 +16,7 @@
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Login</a></li>
+                <li><a href="{% url 'account:login' %}">Login</a></li>
             </ul>
 
         </div>

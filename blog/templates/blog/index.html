@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %} Blog Titles {% endblock %}
+
+{% block content %}
+{% if blogArticles %}
+<div class="row text-center vertical-middle-sm">
+    <h1>我的博客</h1>
+</div>
+
+<div class="row">
+    <div class="col-xs-12 col-md-8">
+        <ul>
+            {% for blogArticle in blogArticles %}
+            <a href="{{blogArticle.id}}">
+                <li>{{blogArticle.title}}</li>
+            </a>
+            {% endfor %}
+        </ul>
+    </div>
+
+</div>
+
+{% endif %}
+{% endblock %}

@@ -5,3 +5,8 @@
 *.bak
 *.jgp
 *.jpeg
+
+# 这两个文件是 django 自带的文件 from django/contrib/auth/templates
+templates/registration/
+templates/admin/
+

@@ -121,3 +121,6 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
+
+# 使用 auth.views 中的 LoginView,需要配置跳转页面
+LOGIN_REDIRECT_URL = '/blog/'

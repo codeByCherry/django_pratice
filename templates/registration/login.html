@@ -1,11 +1,18 @@
 {% extends "base.html" %}
 
+<!--
+from django.contrib.auth.views import LoginView
+#...
+# as_view 的默认 template_name 的是 registration/login.html
+path('login/', LoginView.as_view(), name='login'),
+-->
+
 {% block title %} Login {% endblock %}
 
 {% block content %}
 <div class="row text-center">
     <h1>Login</h1>
-    <p>Input your username & password</p>
+    <p>Input your username & password--LoginView.as_view()</p>
     <form class="form-horizontal" action="" method="POST">
         {% csrf_token %}
         <!--{{ form.as_p }}-->
@@ -24,7 +31,9 @@
                    class="col-md-5 control-label" style="color:blue;">
                 <span class="glyphicon glyphicon-floppy-open"></span>password
             </label>
-            {{form.password}}
+            <div class="col-md-6 text-left">
+                {{form.password}}
+            </div>
         </div>
 
         <input type="submit" name="" value="Login">

@@ -19,7 +19,7 @@ path('login/', LoginView.as_view(), name='login'),
         <div class="form-group">
             <label for="{{form.username.id_for_label}}"
                    class="col-md-5 control-label" style="color:red;">
-                <span class="glyphicon glyphicon-user"></span>username
+                <span class="glyphicon glyphicon-user"></span>{{form.username.label}}
             </label>
             <div class="col-md-6 text-left">
                 {{form.username}}
@@ -29,7 +29,7 @@ path('login/', LoginView.as_view(), name='login'),
         <div class="form-group">
             <label for="{{form.password.id_for_label}}"
                    class="col-md-5 control-label" style="color:blue;">
-                <span class="glyphicon glyphicon-floppy-open"></span>password
+                <span class="glyphicon glyphicon-floppy-open"></span>{{form.password.label}}
             </label>
             <div class="col-md-6 text-left">
                 {{form.password}}

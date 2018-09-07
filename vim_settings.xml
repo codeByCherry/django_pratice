@@ -94,10 +94,10 @@
         <mark key="^" line="13" column="8" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/admin.py" timestamp="1536333757610">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/logout.html" timestamp="1536206228253">
         <mark key="[" line="0" column="12" />
@@ -110,10 +110,10 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/urls.py" timestamp="1536312271710">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/urls.py" timestamp="1536342552088">
+        <mark key="[" line="25" column="83" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_blog/mysite/blog/urls.py" timestamp="1534417047442">
         <mark key="[" line="6" column="13" />
@@ -142,9 +142,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1536203392132">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/settings.py" timestamp="1536205035452" />
       <file name="$USER_HOME$/AA_Codes/django_codes/mysite/poll/admin.py" timestamp="1534320145879">
@@ -291,11 +288,10 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/mysite/urls.py" timestamp="1536140157579">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="30" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="22" column="30" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/mysite/urls.py" timestamp="1536341216927">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/.gitignore" timestamp="1529655595855">
         <mark key="[" line="3" column="0" />
@@ -380,11 +376,11 @@
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/header.html" timestamp="1536329897153">
-        <mark key="[" line="22" column="59" />
-        <mark key="]" line="22" column="59" />
-        <mark key="^" line="22" column="61" />
-        <mark key="." line="22" column="59" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/header.html" timestamp="1536341667973">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="21" column="66" />
+        <mark key="^" line="21" column="59" />
+        <mark key="." line="21" column="66" />
       </file>
       <file name="$USER_HOME$/codes/python3_codes/Flask_blog2/app/forms.py" timestamp="1527663802254">
         <mark key="[" line="53" column="77" />
@@ -524,7 +520,7 @@
         <mark key="." line="69" column="58" />
         <mark key="^" line="69" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536333268364">
+      <file name="/Dummy.txt" timestamp="1536342638896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -692,44 +688,44 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcikK</text>
+      <register name="&quot;" type="4">
+        <text>Logout</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Logout</text>
       </register>
       <register name="/" type="4">
         <text>userProfi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1c2VyX2Zvcm0uaXNfdmFsaWQoKSBhbmQgdXNlcl9wcm9maWxlX2Zvcm0uaXNfdmFsaWQoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7JSB1cmwgJ2FjY291bnQ6bG9nb3V0JyAlfSI+TG9nb3V0PC9hPjwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcikK</text>
+        <text encoding="base64">ICAgIHBhdGgoJ3Bhc3N3b3JkX2NoYW5nZS8nLCBQYXNzd29yZENoYW5nZVZpZXcuYXNfdmlldygpLCBuYW1lPSdwYXNzd29yZF9jaGFuZ2UnKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgoJ3Bhc3N3b3JkX2NoYW5nZV9kb25lLycsIFBhc3N3b3JkQ2hhbmdlRG9uZVZpZXcuYXNfdmlldygpLCBuYW1lPSdwYXNzd29yZF9jaGFuZ2VfZG9uZScpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXF1ZXN0LlBPU1QpCg==</text>
+        <text encoding="base64">ICAgIHBhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1c2VyX3Byb2ZpbGVfZm9ybS5lcnJvcnMpCg==</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1c2VyX3Byb2ZpbGVfZm9ybS5pc192YWxpZCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1c2VyX2Zvcm0uaXNfdmFsaWQoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>

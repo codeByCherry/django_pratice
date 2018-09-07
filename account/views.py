@@ -1,5 +1,7 @@
 from .forms import LoginForm
 from .forms import RegistrationForm
+from .forms import UserProfileForm
+
 from django.contrib.auth import authenticate
 from django.contrib.auth import login
 from django.contrib.auth import logout
@@ -37,11 +39,16 @@ def login(request):
 def register(request):
     if request.method == "POST":
         user_form = RegistrationForm(request.POST)
-
-        if user_form.is_valid():
+        user_profile_form = UserProfileForm(request.POST)
+        if user_form.is_valid() and user_profile_form.is_valid():
             new_user = user_form.save(commit=False)
             new_user.set_password(user_form.cleaned_data['password'])
             new_user.save()
+
+            user_profile = user_profile_form.save(commit=False)
+            user_profile.user = new_user
+            user_profile.save()
+
             return HttpResponse("Create a user successfully.")
 
         else:
@@ -50,4 +57,10 @@ def register(request):
 
     else:
         user_form = RegistrationForm()
-        return render(request, 'account/register.html', {'form': user_form})
+        user_profile_form = UserProfileForm()
+
+        context = dict(
+            form=user_form,
+            user_profile_form=user_profile_form,
+        )
+        return render(request, 'account/register.html', context=context)

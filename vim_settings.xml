@@ -75,12 +75,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/blog/views.py" timestamp="1536198868200">
+      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/blog/views.py" timestamp="1536328755577">
         <mark key="'" line="1" column="45" />
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="48" />
-        <mark key="^" line="18" column="31" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/forms.py" timestamp="1536304024616">
         <mark key="[" line="4" column="41" />
@@ -684,7 +683,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7JSB1cmwgJ2FjY291bnQ6bG9naW4nICV9Ij57eyB1c2VyLnVzZXJuYW1lIH19PC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QudXNlcikK</text>
       </register>
       <register name="-" type="4">
         <text>Login</text>
@@ -696,31 +695,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7JSB1cmwgJ2FjY291bnQ6bG9naW4nICV9Ij5Mb2dpbjwvYT48L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7JSB1cmwgJ2FjY291bnQ6bG9naW4nICV9Ij57eyB1c2VyLnVzZXJuYW1lIH19PC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QudXNlcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7JSB1cmwgJ2FjY291bnQ6bG9naW4nICV9Ij5Mb2dpbjwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7JSB1cmwgJ2FjY291bnQ6bG9naW4nICV9Ij57eyB1c2VyLnVzZXJuYW1lIH19PC9hPjwvbGk+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dGhlbnRpY2F0aW9uX2Zvcm09TG9naW5Gb3JtLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7JSB1cmwgJ2FjY291bnQ6bG9naW4nICV9Ij5Mb2dpbjwvYT48L2xpPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiKioiKjNkZGRkMCkK</text>
+        <text encoding="base64">ICAgIGF1dGhlbnRpY2F0aW9uX2Zvcm09TG9naW5Gb3JtLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2xvZ2luLycsIExvZ2luVmlldy5hc192aWV3KCoqbG9naW5fY29udGV4dCksIG5hbWU9J2xvZ2luJyksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiKioiKjNkZGRkMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhdGgoJ2xvZ2luLycsIExvZ2luVmlldy5hc192aWV3KCoqbG9naW5fY29udGV4dCksIG5hbWU9J2xvZ2luJyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkID0gZm9ybXMuQ2hhckZpZWxkKHdpZGdldD1mb3Jtcy5QYXNzd29yZElucHV0KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2xvZ291dC8nLCB2aWV3cy5sb2dvdXQsIG5hbWU9J2xvZ291dCcpLAo=</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkID0gZm9ybXMuQ2hhckZpZWxkKHdpZGdldD1mb3Jtcy5QYXNzd29yZElucHV0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TE9HSU5fUkVESVJFQ1RfVVJMID0gcmV2ZXJzZSgnYmxvZzppbmRleCcpCg==</text>
+        <text encoding="base64">ICAgIHBhdGgoJ2xvZ291dC8nLCB2aWV3cy5sb2dvdXQsIG5hbWU9J2xvZ291dCcpLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>

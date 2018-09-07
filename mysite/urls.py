@@ -17,8 +17,12 @@ from django.contrib import admin
 from django.urls import path
 from django.urls import include
 
+# from django.contrib.auth.views import PasswordChangeDoneView
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('blog/', include('blog.urls')),
     path('account/', include('account.urls')),
+
+    # path('password_change_done/', PasswordChangeDoneView.as_view(), name='password_change_done'),
 ]

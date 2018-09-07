@@ -1,6 +1,8 @@
 from django.urls import path
 from django.contrib.auth.views import LoginView
 from django.contrib.auth.views import LogoutView
+from django.contrib.auth.views import PasswordChangeView
+from django.contrib.auth.views import PasswordChangeDoneView
 from . import views
 
 app_name = 'account'
@@ -20,5 +22,9 @@ urlpatterns = [
 
     path('logout/', LogoutView.as_view(**logout_context), name='logout'),
     path('register/', views.register, name='register'),
+
+    path('password_change/', PasswordChangeView.as_view(), name='password_change'),
+    # TODO:: 了解类视图的写法，以及如何传入参数！！
+    path('password_change/done/', PasswordChangeDoneView.as_view(), name='password_change_done'),
 
 ]

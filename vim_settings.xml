@@ -81,17 +81,23 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/forms.py" timestamp="1536330866691">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="30" />
-        <mark key="^" line="16" column="8" />
-        <mark key="." line="16" column="30" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/forms.py" timestamp="1536333222218">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="31" column="31" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_blog/mysite/blog/models.py" timestamp="1534411507377">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
         <mark key="^" line="13" column="8" />
+      </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/admin.py" timestamp="1536333757610">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/logout.html" timestamp="1536206228253">
         <mark key="[" line="0" column="12" />
@@ -171,11 +177,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/views.py" timestamp="1536306011731">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/views.py" timestamp="1536333202244">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="10" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial/mysite/polls/templates/polls/index.html" timestamp="1534390530188">
         <mark key="[" line="3" column="24" />
@@ -487,10 +493,12 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" timestamp="1536330960683">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" timestamp="1536333179314">
+        <mark key="'" line="38" column="44" />
+        <mark key="[" line="38" column="107" />
+        <mark key="]" line="38" column="11" />
+        <mark key="^" line="38" column="11" />
+        <mark key="." line="38" column="11" />
       </file>
       <file name="$USER_HOME$/codes/python3_codes/Flask_blog/app/__init__.py" timestamp="1525890146926">
         <mark key="[" line="12" column="25" />
@@ -516,7 +524,7 @@
         <mark key="." line="69" column="58" />
         <mark key="^" line="69" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536330564343">
+      <file name="/Dummy.txt" timestamp="1536333268364">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -577,11 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="554" column="35" filename="$USER_HOME$/Downloads/lw301-server/blackbox/weather/models.py" />
-      <jump line="575" column="27" filename="$USER_HOME$/Downloads/lw301-server/blackbox/weather/models.py" />
-      <jump line="576" column="41" filename="$USER_HOME$/Downloads/lw301-server/blackbox/weather/models.py" />
-      <jump line="577" column="32" filename="$USER_HOME$/Downloads/lw301-server/blackbox/weather/models.py" />
-      <jump line="594" column="38" filename="$USER_HOME$/Downloads/lw301-server/blackbox/weather/models.py" />
       <jump line="595" column="32" filename="$USER_HOME$/Downloads/lw301-server/blackbox/weather/models.py" />
       <jump line="596" column="29" filename="$USER_HOME$/Downloads/lw301-server/blackbox/weather/models.py" />
       <jump line="597" column="37" filename="$USER_HOME$/Downloads/lw301-server/blackbox/weather/models.py" />
@@ -677,6 +680,11 @@
       <jump line="1" column="45" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/blog/views.py" />
       <jump line="23" column="56" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/views.py" />
       <jump line="2" column="45" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/registration/login.html" />
+      <jump line="28" column="34" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" />
+      <jump line="33" column="42" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" />
+      <jump line="34" column="63" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" />
+      <jump line="38" column="44" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" />
+      <jump line="48" column="23" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -685,52 +693,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcikK</text>
       </register>
       <register name="-" type="4">
-        <text>'email'</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>UTC</text>
+        <text>userProfi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAoJ3VzZXJuYW1lJywgJ2VtYWlsJykK</text>
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyX2Zvcm0uaXNfdmFsaWQoKSBhbmQgdXNlcl9wcm9maWxlX2Zvcm0uaXNfdmFsaWQoKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAoJ3VzZXJuYW1lJywgJ2VtYWlsJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyDlop7liqAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXF1ZXN0LlBPU1QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1c2VyX3Byb2ZpbGVfZm9ybS5lcnJvcnMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7JSB1cmwgJ2Jsb2c6aW5kZXgnICV9Ij5Mb2dvdXQ8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QudXNlcikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1c2VyX3Byb2ZpbGVfZm9ybS5pc192YWxpZCgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7JSB1cmwgJ2FjY291bnQ6bG9naW4nICV9Ij57eyB1c2VyLnVzZXJuYW1lIH19PC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1c2VyX2Zvcm0uaXNfdmFsaWQoKSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
       </register>
     </registers>
     <search>
-      <last-search>UTC</last-search>
+      <last-search>userProfi</last-search>
       <last-offset />
-      <last-pattern>UTC</last-pattern>
+      <last-pattern>userProfi</last-pattern>
       <last-replace>pass</last-replace>
       <last-substitute>Pass</last-substitute>
       <last-dir>1</last-dir>
@@ -738,7 +746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>r NotImplementedError</entry>
         <entry>pass</entry>
         <entry>Pass</entry>
         <entry encoding="base64">XDxfX25hbWVfX1w+</entry>
@@ -758,6 +765,7 @@
         <entry>Field</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>UTC</entry>
+        <entry>userProfi</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@log_it/####/gc</entry>

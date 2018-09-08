@@ -366,6 +366,11 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" timestamp="1536392199584">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial/mysite/polls/admin.py" timestamp="1534387016649">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="20" />
@@ -696,10 +701,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Logout</text>
+        <text>webserver</text>
       </register>
       <register name="-" type="4">
-        <text>Logout</text>
+        <text>webserver</text>
       </register>
       <register name="/" type="4">
         <text>userProfi</text>

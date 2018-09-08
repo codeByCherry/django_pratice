@@ -1,0 +1,31 @@
+{% load staticfiles %}
+
+<div class="container">
+    <nav class="navbar navbar-default" role="navigation">
+
+        <div class="navbar-header">
+            <a class="navbar-brand" href="{% url 'blog:index' %}">
+                <img src="{% static 'images/favicon.ico' %}" alt="logo" width="20px">
+            </a>
+        </div>
+
+        <div>
+
+            <ul class="nav navbar-nav" role="navigation">
+                <li><a href="{% url 'blog:index'%}">Blog</a></li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                {% if user.is_authenticated %}
+                <li><a href="{% url 'blog:index' %}">{{ user.username }}</a></li>
+                <li><a href="{% url 'account:logout' %}">Logout</a></li>
+                <li><a href="{% url 'account:password_change' %}">Change PWD</a></li>
+                {% else %}
+                <li><a href="{% url 'account:register' %}">Register</a></li>
+                <li><a href="{% url 'account:login' %}">Login</a></li>
+                {% endif %}
+            </ul>
+
+        </div>
+    </nav>
+</div>

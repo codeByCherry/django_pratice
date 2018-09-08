@@ -57,6 +57,9 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
+      <file name="templates/admin/base.html" timestamp="1536381664000">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/python3_codes/Flask_blog/app/templates/login.html" timestamp="1525923011821">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="15" column="34" />
@@ -143,7 +146,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/settings.py" timestamp="1536205035452" />
+      <file name="/Python Console" timestamp="1536203392132">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/mysite/poll/admin.py" timestamp="1534320145879">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="7" />
@@ -281,6 +286,9 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="17" column="49" />
+      </file>
+      <file name="account/views.py" timestamp="1536381693539">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/snap2/app/users/routes.py" timestamp="1530851436399">
         <mark key="[" line="2" column="0" />
@@ -531,7 +539,6 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/contrib/auth/views.py" timestamp="1536204720646" />
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/blog/templates/blog/base.html" timestamp="1536129511856">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />

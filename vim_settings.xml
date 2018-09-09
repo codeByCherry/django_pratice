@@ -66,6 +66,13 @@
       <file name="templates/admin/base.html" timestamp="1536381664000">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/black_hat_python/tcp_client.py" timestamp="1536483044288">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="7" column="33" />
+      </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/templates/lists/home_page.html" timestamp="1536405478664">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="3" column="17" />
@@ -255,13 +262,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/mysite/settings.py" timestamp="1536309969411">
-        <mark key="'" line="9" column="17" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="1" />
-        <mark key="^" line="124" column="27" />
-        <mark key="." line="122" column="1" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/templates/register.html" timestamp="1529661585069">
         <mark key="[" line="33" column="33" />
@@ -539,13 +539,6 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" timestamp="1536333179314">
-        <mark key="'" line="38" column="44" />
-        <mark key="[" line="38" column="107" />
-        <mark key="]" line="38" column="11" />
-        <mark key="^" line="38" column="11" />
-        <mark key="." line="38" column="11" />
-      </file>
       <file name="$USER_HOME$/codes/python3_codes/Flask_blog/app/__init__.py" timestamp="1525890146926">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="13" column="24" />
@@ -630,7 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="697" column="19" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="724" column="30" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="736" column="50" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="759" column="18" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
@@ -730,6 +722,7 @@
       <jump line="370" column="4" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
       <jump line="381" column="4" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
       <jump line="436" column="4" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
+      <jump line="6" column="12" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/black_hat_python/tcp_client.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -737,44 +730,44 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiAgaWQ9ImlkX25ld19pdGVtIiB2YWx1ZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgYSB0by1kbyBpdGVtIj4K</text>
+      <register name="&quot;" type="4">
+        <text>www.baidu.com</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZiA=</text>
+        <text>www.baidu.com</text>
       </register>
       <register name="/" type="4">
         <text>def assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2Uuc3RhcnRzV2l0aCgnPGh0bWw+JykpCg==</text>
+        <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3Lmdvb2dsZS5jb20nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiAgaWQ9ImlkX25ld19pdGVtIiB2YWx1ZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgYSB0by1kbyBpdGVtIj4K</text>
+        <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3LmJhaWR1LmNvbScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gc2VsZi5icm93c2VyLmZpbmRfZWxlbWVudF9ieV90YWdfbmFtZSgndGFiU2xlJykK</text>
+        <text encoding="base64">a3tTfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiAgaWQ9ImlkX25ld19pdGVtIiB2YWx1ZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgYSB0by1kbyBpdGVtIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gc2VsZi5icm93c2VyLmZpbmRfZWxlbWVudF9ieV90YWdfbmFtZSgndGFiU2xlJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2Uuc3RhcnRzd2l0aCgnPCFET0NUWVBFIGh0bWw+JykpCiAgICAgICAgc2VsZi5hc3NlcnRJbignPHRpdGxlPlRvLURvIGxpc3RzPC90aXRsZT4nLCByZXNwb25zZSkKICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2UuZW5kc3dpdGgoJzwvaHRtbD4nKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2hvbWVfcGFnZV9yZXR1cm5zX2NvcnJlY3RfaHRtbChzZWxmKToKICAgICAgICByZXF1ZXN0ID0gSHR0cFJlcXVlc3QoKQogICAgICAgIHJlc3BvbnNlID0gaG9tZV9wYWdlKHJlcXVlc3QpLmNvbnRlbnQuZGVjb2RlKCkuc3RyaXAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvdW5kLmZ1bmMsIGhvbWVfcGFnZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2Uuc3RhcnRzd2l0aCgnPCFET0NUWVBFIGh0bWw+JykpCiAgICAgICAgc2VsZi5hc3NlcnRJbignPHRpdGxlPlRvLURvIGxpc3RzPC90aXRsZT4nLCByZXNwb25zZSkKICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2UuZW5kc3dpdGgoJzwvaHRtbD4nKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3VuZCA9IHJlc29sdmUoJy9saXN0cy8nKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2hvbWVfcGFnZV9yZXR1cm5zX2NvcnJlY3RfaHRtbChzZWxmKToKICAgICAgICByZXF1ZXN0ID0gSHR0cFJlcXVlc3QoKQogICAgICAgIHJlc3BvbnNlID0gaG9tZV9wYWdlKHJlcXVlc3QpLmNvbnRlbnQuZGVjb2RlKCkuc3RyaXAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSB0aW1lOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvdW5kLmZ1bmMsIGhvbWVfcGFnZSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>

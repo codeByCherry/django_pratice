@@ -39,10 +39,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" timestamp="1536559446820">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" timestamp="1536566585999">
+        <mark key="'" line="1" column="35" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/forms.py" timestamp="1529775988155">
         <mark key="[" line="23" column="32" />
@@ -147,11 +149,11 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" timestamp="1536560908635">
-        <mark key="[" line="14" column="65" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="27" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" timestamp="1536566650792">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="36" column="49" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/blog/index.html" timestamp="1536302690306">
         <mark key="[" line="14" column="23" />
@@ -232,6 +234,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/models.py" timestamp="1536565989903">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+        <mark key="^" line="5" column="65" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial/mysite/mysite/settings.py" timestamp="1534384343472">
         <mark key="[" line="40" column="22" />
@@ -392,11 +400,12 @@
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" timestamp="1536404646027">
         <mark key="'" line="436" column="4" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" timestamp="1536560663339">
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" timestamp="1536565225986">
         <mark key="'" line="1" column="43" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="50" column="50" />
+        <mark key="]" line="50" column="51" />
+        <mark key="." line="50" column="51" />
+        <mark key="^" line="49" column="51" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial/mysite/polls/admin.py" timestamp="1534387016649">
         <mark key="[" line="6" column="20" />
@@ -562,11 +571,6 @@
         <mark key="." line="69" column="58" />
         <mark key="^" line="69" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536404518244">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/__init__.py" timestamp="1530798749696">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="8" column="23" />
@@ -622,8 +626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="821" column="29" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="848" column="32" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="890" column="45" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="926" column="17" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="928" column="48" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
@@ -722,6 +724,8 @@
       <jump line="40" column="28" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="1" column="43" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="15" column="20" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" />
+      <jump line="1" column="35" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -730,43 +734,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>post</text>
+        <text encoding="base64">SXRlbSA=</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text encoding="base64">SXRlbSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxLZXlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3Lmdvb2dsZS5jb20nCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKGl0ZW1fMS50ZXh0LCBbaXRlbS50ZXh0IGZvciBpdGVtIGluIHNhdmVkX2l0ZW1zXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXIocmVzcG9uc2UpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dF9ib3guZ2V0X2F0dHJpYnV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEl0ZW0ub2JqZWN0cy5jb3VudCgpLCAxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS50ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtXzIgPSBJdGVtKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAga2sgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmh0dHAgaW1wb3J0IEh0dHBSZXNwb25zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3AuKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3AgPSBIdHRwUmVzcG9uc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gc2VsZi5icm93c2VyLmZpbmRfZWxlbWVudF9ieV9pZCgnaWRfbGlzdF90YWJsZScpLnRleHQKICAgICAgICBzZWxmLmFzc2VydEluKGYnMXt0b2RvMX0nLCBjb250ZW50KQogICAgICAgIHNlbGYuYXNzZXJ0SW4oZicye3RvZG8yfScsIGNvbnRlbnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gc2VsZi5icm93c2VyLmZpbmRfZWxlbWVudF9ieV9pZCgnaWRfbGlzdF90YWJsZScpLnRleHQKICAgICAgICBzZWxmLmFzc2VydEluKGYnMTp7dG9kbzF9JywgY29udGVudCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3LmJhaWR1LmNvbScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>

@@ -39,11 +39,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" timestamp="1536399902165">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" timestamp="1536559446820">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/forms.py" timestamp="1529775988155">
         <mark key="[" line="23" column="32" />
@@ -392,12 +391,12 @@
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" timestamp="1536404646027">
         <mark key="'" line="436" column="4" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" timestamp="1536552713611">
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" timestamp="1536559494226">
         <mark key="'" line="1" column="43" />
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="7" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="37" column="7" />
+        <mark key="^" line="37" column="7" />
+        <mark key="." line="37" column="7" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial/mysite/polls/admin.py" timestamp="1534387016649">
         <mark key="[" line="6" column="20" />
@@ -731,10 +730,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>www.baidu.com</text>
+        <text>write</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxLZXlzXD4=</text>
@@ -743,31 +742,31 @@
         <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3Lmdvb2dsZS5jb20nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3LmJhaWR1LmNvbScK</text>
+        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmh0dHAgaW1wb3J0IEh0dHBSZXNwb25zZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a3tTfQo=</text>
+        <text encoding="base64">ICAgIHJlc3AuKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiAgaWQ9ImlkX25ld19pdGVtIiB2YWx1ZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgYSB0by1kbyBpdGVtIj4K</text>
+        <text encoding="base64">ICAgIHJlc3AgPSBIdHRwUmVzcG9uc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gc2VsZi5icm93c2VyLmZpbmRfZWxlbWVudF9ieV90YWdfbmFtZSgndGFiU2xlJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3LmJhaWR1LmNvbScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a3tTfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2Uuc3RhcnRzd2l0aCgnPCFET0NUWVBFIGh0bWw+JykpCiAgICAgICAgc2VsZi5hc3NlcnRJbignPHRpdGxlPlRvLURvIGxpc3RzPC90aXRsZT4nLCByZXNwb25zZSkKICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2UuZW5kc3dpdGgoJzwvaHRtbD4nKSkK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiAgaWQ9ImlkX25ld19pdGVtIiB2YWx1ZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgYSB0by1kbyBpdGVtIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2hvbWVfcGFnZV9yZXR1cm5zX2NvcnJlY3RfaHRtbChzZWxmKToKICAgICAgICByZXF1ZXN0ID0gSHR0cFJlcXVlc3QoKQogICAgICAgIHJlc3BvbnNlID0gaG9tZV9wYWdlKHJlcXVlc3QpLmNvbnRlbnQuZGVjb2RlKCkuc3RyaXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gc2VsZi5icm93c2VyLmZpbmRfZWxlbWVudF9ieV90YWdfbmFtZSgndGFiU2xlJykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>

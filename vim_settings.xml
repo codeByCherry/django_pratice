@@ -74,7 +74,7 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/templates/lists/home_page.html" timestamp="1536567564140">
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/templates/lists/home_page.html" timestamp="1536572408142">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="21" />
@@ -385,8 +385,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" timestamp="1536571088099">
-        <mark key="[" line="21" column="47" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" timestamp="1536572255324">
+        <mark key="'" line="27" column="21" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="58" column="1" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial2/mysite/polls/urls.py" timestamp="1535077641361">
         <mark key="[" line="17" column="60" />
@@ -634,8 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="942" column="16" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="950" column="22" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="952" column="36" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="982" column="67" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="998" column="26" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
@@ -734,6 +736,8 @@
       <jump line="3" column="36" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" />
       <jump line="16" column="28" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" />
       <jump line="5" column="30" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" />
+      <jump line="6" column="14" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="27" column="21" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -742,52 +746,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVuaXR0ZXN0Lm1haW4oKQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="-" type="4">
-        <text>LISTS_URL</text>
+        <text>webdriver</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxLZXlzXD4=</text>
+        <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gZGljdCgKICAgICAgICAgICAgaXRlbV90ZXh0PSd0b2RvMScsCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuY29tbW9uLmtleXMgaW1wb3J0IEtleXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVuaXR0ZXN0Lm1haW4oKQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TElTVFNfVVJMID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9saXN0cy8nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TElTVFNfVVJMID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9saXN0cy8nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuY2xpZW50LnBvc3QoJy9saXN0cy8nLCBkYXRhPWRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGRkIAo=</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZV90ZXh0ID0gc2VsZi5icm93c2VyLmZpbmRfZWxlbWVudF9ieV9pZCgnaWRfbGlzdF90YWJsZScpLnRleHQKICAgICAgICBzZWxmLmFzc2VydEluKHJvd190ZXh0LCB0YWJsZV90ZXh0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDAuNSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0SW4oZGF0YVsnaXRlbV90ZXh0J10sIHJlc3BvbnNlLmNvbnRlbnQuZGVjb2RlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDAuNSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxLZXlzXD4=</last-search>
+      <last-search>sleep</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxLZXlzXD4=</last-pattern>
+      <last-pattern>sleep</last-pattern>
       <last-replace>pass</last-replace>
       <last-substitute>Pass</last-substitute>
       <last-dir>1</last-dir>
@@ -795,7 +799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>table</entry>
         <entry>Table</entry>
         <entry>send_</entry>
         <entry>Session</entry>
@@ -815,6 +818,7 @@
         <entry>assert</entry>
         <entry>def assert</entry>
         <entry encoding="base64">XDxLZXlzXD4=</entry>
+        <entry>sleep</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@log_it/####/gc</entry>

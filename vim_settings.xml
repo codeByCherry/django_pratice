@@ -39,12 +39,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" timestamp="1536591668977">
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" timestamp="1536603168424">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/forms.py" timestamp="1529775988155">
         <mark key="[" line="23" column="32" />
@@ -74,11 +74,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/templates/lists/home_page.html" timestamp="1536591725795">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/templates/lists/home_page.html" timestamp="1536599475768">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="8" />
       </file>
       <file name="$USER_HOME$/codes/python3_codes/Flask_blog/app/templates/login.html" timestamp="1525923011821">
         <mark key="[" line="26" column="7" />
@@ -149,12 +149,12 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" timestamp="1536592495696">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="88" column="43" />
-        <mark key="]" line="88" column="43" />
-        <mark key="." line="88" column="43" />
-        <mark key="^" line="88" column="12" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" timestamp="1536603689569">
+        <mark key="'" line="60" column="68" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="15" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/blog/index.html" timestamp="1536302690306">
         <mark key="[" line="14" column="23" />
@@ -173,7 +173,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1536404469679">
+      <file name="/Python Console" timestamp="1536600164447">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/mysite/poll/admin.py" timestamp="1534320145879">
@@ -236,11 +236,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/models.py" timestamp="1536565989903">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-        <mark key="^" line="5" column="65" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/models.py" timestamp="1536602910712">
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="65" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial/mysite/mysite/settings.py" timestamp="1534384343472">
         <mark key="[" line="40" column="22" />
@@ -248,6 +248,7 @@
         <mark key="." line="111" column="25" />
         <mark key="^" line="111" column="25" />
       </file>
+      <file name="/views.py" timestamp="1536600177610" />
       <file name="$USER_HOME$/AA_Codes/django_codes/django_实战/mysite/blog/models.py" timestamp="1534344430221">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="3" column="0" />
@@ -345,11 +346,11 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/urls.py" timestamp="1536592479352">
-        <mark key="[" line="9" column="68" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/urls.py" timestamp="1536601093608">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="32" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/.gitignore" timestamp="1536132719710">
         <mark key="[" line="10" column="0" />
@@ -368,8 +369,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/templates/lists/view_list.html" timestamp="1536591081193">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/templates/lists/view_list.html" timestamp="1536601979897">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="39" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_blog/mysite/blog/views.py" timestamp="1534418029315">
         <mark key="[" line="12" column="0" />
@@ -389,11 +393,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" timestamp="1536588281425">
-        <mark key="'" line="66" column="43" />
-        <mark key="[" line="93" column="49" />
-        <mark key="]" line="62" column="28" />
-        <mark key="." line="62" column="28" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" timestamp="1536601700808">
+        <mark key="'" line="82" column="22" />
+        <mark key="[" line="80" column="39" />
+        <mark key="]" line="82" column="21" />
+        <mark key="." line="82" column="21" />
+        <mark key="^" line="82" column="21" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial2/mysite/polls/urls.py" timestamp="1535077641361">
         <mark key="[" line="17" column="60" />
@@ -586,8 +591,10 @@
         <mark key="." line="69" column="58" />
         <mark key="^" line="69" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536592539982">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1536603483677">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/__init__.py" timestamp="1530798749696">
         <mark key="[" line="12" column="26" />
@@ -644,24 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1159" column="32" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="1174" column="20" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="1184" column="20" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="18" column="41" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="34" column="34" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="35" column="56" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="36" column="63" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="37" column="70" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="38" column="59" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="39" column="60" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="40" column="70" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="1" column="36" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/views.py" />
-      <jump line="29" column="44" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/views.py" />
-      <jump line="35" column="15" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/django_login.html" />
-      <jump line="17" column="31" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/django_login.html" />
-      <jump line="9" column="17" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/mysite/settings.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/blog/views.py" />
       <jump line="2" column="0" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/blog/models.py" />
       <jump line="4" column="19" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/blog/admin.py" />
       <jump line="6" column="18" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/blog/views.py" />
@@ -732,18 +721,36 @@
       <jump line="27" column="21" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
       <jump line="60" column="64" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
       <jump line="17" column="8" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
-      <jump line="66" column="43" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
       <jump line="9" column="28" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
       <jump line="78" column="13" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
       <jump line="76" column="13" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
       <jump line="77" column="13" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
       <jump line="3" column="34" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
-      <jump line="44" column="52" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
       <jump line="89" column="48" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
       <jump line="14" column="56" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" />
       <jump line="88" column="13" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
       <jump line="22" column="13" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="55" column="48" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="66" column="21" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="67" column="38" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="91" column="44" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="89" column="21" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="90" column="38" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="62" column="28" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="64" column="41" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="82" column="22" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="0" column="2" filename="/Dummy.txt" />
+      <jump line="57" column="8" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="62" column="8" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="63" column="38" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="43" column="45" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="44" column="47" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="45" column="47" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="48" column="14" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="51" column="31" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
+      <jump line="60" column="68" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -752,52 +759,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>functin</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>functin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRUZW1wbGF0ZVVzZWRcPg==</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAudmlld3MgaW1wb3J0IGhvbWVfcGFnZQo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlZF9pdGVtMSA9IEl0ZW0ub2JqZWN0cy5nZXQocGs9MSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBIdHRwUmVzcG9uc2UoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZnUgKHNlbGYpOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyDmnoTlu7rkuKTkuKrlrp7kvZMK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxpc3QgPSBtb2RlbHNgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCwgcmVzcG9uc2VfY29udGVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCc8dGl0bGU+VG8tRG8gbGlzdHM8L3RpdGxlPicsIHJlc3BvbnNlX2NvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRUZW1wbGF0ZVVzZWRcPg==</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRUZW1wbGF0ZVVzZWRcPg==</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>pass</last-replace>
       <last-substitute>Pass</last-substitute>
       <last-dir>1</last-dir>
@@ -805,11 +812,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
-        <entry>Template</entry>
-        <entry encoding="base64">XDxESVJTXD4=</entry>
-        <entry encoding="base64">XDznu5/kuIDnrqHnkIbpnZnmgIHmlofku7ZcPg==</entry>
-        <entry>FIND</entry>
         <entry>Data</entry>
         <entry>TIME</entry>
         <entry>Field</entry>
@@ -825,6 +827,11 @@
         <entry>assertIn</entry>
         <entry>one</entry>
         <entry encoding="base64">XDxhc3NlcnRUZW1wbGF0ZVVzZWRcPg==</entry>
+        <entry encoding="base64">XDx1c2VyMV9saXN0XD4=</entry>
+        <entry encoding="base64">XDx1c2VyMl9saXN0XD4=</entry>
+        <entry encoding="base64">XDx1c2VyMV9pdGVtXD4=</entry>
+        <entry encoding="base64">XDxzYXZlZF9pdGVtMVw+</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@log_it/####/gc</entry>

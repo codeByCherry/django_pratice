@@ -392,12 +392,12 @@
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" timestamp="1536404646027">
         <mark key="'" line="436" column="4" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" timestamp="1536404981547">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="60" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" timestamp="1536552713611">
+        <mark key="'" line="1" column="43" />
+        <mark key="[" line="44" column="37" />
+        <mark key="]" line="45" column="7" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="45" column="7" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial/mysite/polls/admin.py" timestamp="1534387016649">
         <mark key="[" line="6" column="20" />
@@ -623,8 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="724" column="30" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
-      <jump line="736" column="50" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="759" column="18" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="821" column="29" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
       <jump line="848" column="32" filename="$USER_HOME$/AA_Codes/django_codes/superlists_django_env/lib/python3.7/site-packages/django/forms/fields.py" />
@@ -723,6 +721,8 @@
       <jump line="381" column="4" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
       <jump line="436" column="4" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
       <jump line="6" column="12" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/black_hat_python/tcp_client.py" />
+      <jump line="40" column="28" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
+      <jump line="1" column="43" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -730,53 +730,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>www.baidu.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydAo=</text>
       </register>
       <register name="-" type="4">
         <text>www.baidu.com</text>
       </register>
       <register name="/" type="4">
-        <text>def assert</text>
+        <text encoding="base64">XDxLZXlzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3Lmdvb2dsZS5jb20nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3LmJhaWR1LmNvbScK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">a3tTfQo=</text>
+        <text encoding="base64">dGFyZ2V0X2hvc3QgPSAnd3d3LmJhaWR1LmNvbScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiAgaWQ9ImlkX25ld19pdGVtIiB2YWx1ZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgYSB0by1kbyBpdGVtIj4K</text>
+        <text encoding="base64">a3tTfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gc2VsZi5icm93c2VyLmZpbmRfZWxlbWVudF9ieV90YWdfbmFtZSgndGFiU2xlJykK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiAgaWQ9ImlkX25ld19pdGVtIiB2YWx1ZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgYSB0by1kbyBpdGVtIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gc2VsZi5icm93c2VyLmZpbmRfZWxlbWVudF9ieV90YWdfbmFtZSgndGFiU2xlJykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2Uuc3RhcnRzd2l0aCgnPCFET0NUWVBFIGh0bWw+JykpCiAgICAgICAgc2VsZi5hc3NlcnRJbignPHRpdGxlPlRvLURvIGxpc3RzPC90aXRsZT4nLCByZXNwb25zZSkKICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2UuZW5kc3dpdGgoJzwvaHRtbD4nKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2hvbWVfcGFnZV9yZXR1cm5zX2NvcnJlY3RfaHRtbChzZWxmKToKICAgICAgICByZXF1ZXN0ID0gSHR0cFJlcXVlc3QoKQogICAgICAgIHJlc3BvbnNlID0gaG9tZV9wYWdlKHJlcXVlc3QpLmNvbnRlbnQuZGVjb2RlKCkuc3RyaXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2Uuc3RhcnRzd2l0aCgnPCFET0NUWVBFIGh0bWw+JykpCiAgICAgICAgc2VsZi5hc3NlcnRJbignPHRpdGxlPlRvLURvIGxpc3RzPC90aXRsZT4nLCByZXNwb25zZSkKICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcG9uc2UuZW5kc3dpdGgoJzwvaHRtbD4nKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvdW5kLmZ1bmMsIGhvbWVfcGFnZSkK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2hvbWVfcGFnZV9yZXR1cm5zX2NvcnJlY3RfaHRtbChzZWxmKToKICAgICAgICByZXF1ZXN0ID0gSHR0cFJlcXVlc3QoKQogICAgICAgIHJlc3BvbnNlID0gaG9tZV9wYWdlKHJlcXVlc3QpLmNvbnRlbnQuZGVjb2RlKCkuc3RyaXAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
       </register>
     </registers>
     <search>
-      <last-search>def assert</last-search>
+      <last-search encoding="base64">XDxLZXlzXD4=</last-search>
       <last-offset />
-      <last-pattern>def assert</last-pattern>
+      <last-pattern encoding="base64">XDxLZXlzXD4=</last-pattern>
       <last-replace>pass</last-replace>
       <last-substitute>Pass</last-substitute>
       <last-dir>1</last-dir>
@@ -784,7 +784,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cli</entry>
         <entry>table</entry>
         <entry>Table</entry>
         <entry>send_</entry>
@@ -804,6 +803,7 @@
         <entry>check</entry>
         <entry>assert</entry>
         <entry>def assert</entry>
+        <entry encoding="base64">XDxLZXlzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@log_it/####/gc</entry>

@@ -140,12 +140,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" timestamp="1536679916248">
-        <mark key="'" line="126" column="41" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" timestamp="1536682133387">
+        <mark key="'" line="58" column="6" />
         <mark key="[" line="28" column="5" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="28" column="5" />
-        <mark key="^" line="33" column="16" />
+        <mark key="]" line="58" column="6" />
+        <mark key="." line="58" column="6" />
+        <mark key="^" line="58" column="6" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/blog/title.html" timestamp="1535825882904">
         <mark key="[" line="7" column="13" />
@@ -673,7 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="17" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="2" column="10" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="0" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="6" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
@@ -773,6 +772,7 @@
       <jump line="38" column="7" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
       <jump line="19" column="45" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
       <jump line="126" column="41" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
+      <jump line="58" column="6" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -787,7 +787,7 @@
         <text>ALLOWED_HOSTS</text>
       </register>
       <register name="/" type="4">
-        <text>ALL</text>
+        <text>LL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMK</text>
@@ -824,9 +824,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ALL</last-search>
+      <last-search>LL</last-search>
       <last-offset />
-      <last-pattern>ALL</last-pattern>
+      <last-pattern>LL</last-pattern>
       <last-replace>pass</last-replace>
       <last-substitute>Pass</last-substitute>
       <last-dir>1</last-dir>
@@ -834,7 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>one</entry>
         <entry encoding="base64">XDxhc3NlcnRUZW1wbGF0ZVVzZWRcPg==</entry>
         <entry encoding="base64">XDx1c2VyMV9saXN0XD4=</entry>
         <entry encoding="base64">XDx1c2VyMl9saXN0XD4=</entry>
@@ -854,6 +853,7 @@
         <entry>a</entry>
         <entry>ow</entry>
         <entry>ALL</entry>
+        <entry>LL</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@log_it/####/gc</entry>

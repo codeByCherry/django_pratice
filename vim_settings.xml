@@ -248,7 +248,6 @@
         <mark key="." line="111" column="25" />
         <mark key="^" line="111" column="25" />
       </file>
-      <file name="/views.py" timestamp="1536600177610" />
       <file name="$USER_HOME$/AA_Codes/django_codes/django_实战/mysite/blog/models.py" timestamp="1534344430221">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="3" column="0" />
@@ -261,7 +260,6 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="/tests.py" timestamp="1536629358462" />
       <file name="$USER_HOME$/codes/python3_codes/Flask_blog/app/templates/index.html" timestamp="1526006848298">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="37" />
@@ -397,13 +395,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" timestamp="1536646904007">
-        <mark key="'" line="115" column="21" />
-        <mark key="[" line="23" column="81" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="11" />
-      </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial2/mysite/polls/urls.py" timestamp="1535077641361">
         <mark key="[" line="17" column="60" />
         <mark key="]" line="18" column="0" />
@@ -484,12 +475,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/superlists/settings.py" timestamp="1536659145538">
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="43" column="27" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/snap2/app/users/forms.py" timestamp="1530805836680">
         <mark key="[" line="10" column="84" />
@@ -613,7 +598,6 @@
       <file name="/Dummy.txt" timestamp="1536657920277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/apps.py" timestamp="1536659037981" />
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/__init__.py" timestamp="1530798749696">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="8" column="23" />

@@ -397,12 +397,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" timestamp="1536645368160">
-        <mark key="'" line="21" column="8" />
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="19" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" timestamp="1536646904007">
+        <mark key="'" line="115" column="21" />
+        <mark key="[" line="23" column="81" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial2/mysite/polls/urls.py" timestamp="1535077641361">
         <mark key="[" line="17" column="60" />
@@ -610,10 +610,10 @@
         <mark key="." line="69" column="58" />
         <mark key="^" line="69" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536645429394">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1536646813558">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/__init__.py" timestamp="1530798749696">
         <mark key="[" line="12" column="26" />
@@ -670,10 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="42" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" />
-      <jump line="34" column="63" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" />
-      <jump line="38" column="44" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/account/register.html" />
-      <jump line="48" column="23" filename="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/account/views.py" />
       <jump line="24" column="19" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="15" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="12" column="26" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
@@ -770,6 +766,10 @@
       <jump line="46" column="47" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
       <jump line="36" column="4" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/views.py" />
       <jump line="21" column="8" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="15" column="19" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="4" column="8" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
+      <jump line="115" column="21" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/functional_tests/test_functional.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -778,52 +778,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>600</text>
+        <text encoding="base64">RnVuY2lvbmFsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>600</text>
+        <text encoding="base64">RnVuY2lvbmFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja19pbnB1dF9ib3hfY2VudGVyXD4=</text>
+        <text>set</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Ii9zdGF0aWMvYm9vdHN0cmFwL2Nzcy9ib290c3RyYXAubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS08bGluayBocmVmPSJodHRwczovL2Nkbi5ib290Y3NzLmNvbS9ib290c3RyYXAvMy4zLjcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiPi0tPgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgTGl2ZVNlcnZlclRlc3RDYXNlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBibG9jayB0YWJsZSAlfQogICAgICAgIHslIGVuZGJsb2NrICV9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwhLS08bGluayBocmVmPSJodHRwczovL2Nkbi5ib290Y3NzLmNvbS9ib290c3RyYXAvMy4zLjcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiPi0tPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgTGl2ZVNlcnZlclRlc3RDYXNlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB7JSBibG9jayB0YWJsZSAlfQogICAgICAgIHslIGVuZGJsb2NrICV9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja19pbnB1dF9ib3hfY2VudGVyXD4=</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja19pbnB1dF9ib3hfY2VudGVyXD4=</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>pass</last-replace>
       <last-substitute>Pass</last-substitute>
       <last-dir>1</last-dir>
@@ -831,7 +831,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userProfi</entry>
         <entry>check</entry>
         <entry>assert</entry>
         <entry>def assert</entry>
@@ -851,6 +850,7 @@
         <entry>add</entry>
         <entry>boot</entry>
         <entry encoding="base64">XDxjaGVja19pbnB1dF9ib3hfY2VudGVyXD4=</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@log_it/####/gc</entry>

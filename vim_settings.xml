@@ -140,6 +140,13 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" timestamp="1536679916248">
+        <mark key="'" line="126" column="41" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="33" column="16" />
+      </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/blog/title.html" timestamp="1535825882904">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -608,7 +615,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536675515589">
+      <file name="/Dummy.txt" timestamp="1536679506129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/__init__.py" timestamp="1530798749696">
@@ -666,12 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
-      <jump line="2" column="28" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" />
-      <jump line="14" column="24" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
-      <jump line="20" column="69" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
-      <jump line="23" column="11" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="32" column="17" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="2" column="10" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="0" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
@@ -766,6 +767,12 @@
       <jump line="1" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.gitignore" />
       <jump line="18" column="5" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.gitignore" />
       <jump line="7" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.gitignore" />
+      <jump line="33" column="16" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
+      <jump line="36" column="20" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
+      <jump line="37" column="20" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
+      <jump line="38" column="7" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
+      <jump line="19" column="45" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
+      <jump line="126" column="41" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -773,23 +780,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBDIGV4dGVuc2lvbnMKKi5zbwoKIyBEaXN0cmlidXRpb24gLyBwYWNrYWdpbmcKLlB5dGhvbgpidWlsZC8KZGV2ZWxvcC1lZ2dzLwpkaXN0Lwpkb3dubG9hZHMvCmVnZ3MvCi5lZ2dzLwpsaWIvCmxpYjY0LwpwYXJ0cy8Kc2Rpc3QvCnZhci8Kd2hlZWxzLwoqLmVnZy1pbmZvLwouaW5zdGFsbGVkLmNmZwoqLmVnZwpNQU5JRkVTVAoKIyBQeUluc3RhbGxlcgojICBVc3VhbGx5IHRoZXNlIGZpbGVzIGFyZSB3cml0dGVuIGJ5IGEgcHl0aG9uIHNjcmlwdCBmcm9tIGEgdGVtcGxhdGUKIyAgYmVmb3JlIFB5SW5zdGFsbGVyIGJ1aWxkcyB0aGUgZXhlLCBzbyBhcyB0byBpbmplY3QgZGF0ZS9vdGhlciBpbmZvcyBpbnRvIGl0LgoqLm1hbmlmZXN0Ciouc3BlYwoKIyBJbnN0YWxsZXIgbG9ncwpwaXAtbG9nLnR4dApwaXAtZGVsZXRlLXRoaXMtZGlyZWN0b3J5LnR4dAoKIyBVbml0IHRlc3QgLyBjb3ZlcmFnZSByZXBvcnRzCmh0bWxjb3YvCi50b3gvCi5jb3ZlcmFnZQouY292ZXJhZ2UuKgouY2FjaGUKbm9zZXRlc3RzLnhtbApjb3ZlcmFnZS54bWwKKi5jb3ZlcgouaHlwb3RoZXNpcy8KLnB5dGVzdF9jYWNoZS8KCiMgVHJhbnNsYXRpb25zCioubW8KKi5wb3QKCiMgRGphbmdvIHN0dWZmOgoqLmxvZwpsb2NhbF9zZXR0aW5ncy5weQpkYi5zcWxpdGUzCgojIEZsYXNrIHN0dWZmOgppbnN0YW5jZS8KLndlYmFzc2V0cy1jYWNoZQoKIyBTY3JhcHkgc3R1ZmY6Ci5zY3JhcHkKCiMgU3BoaW54IGRvY3VtZW50YXRpb24KZG9jcy9fYnVpbGQvCgojIFB5QnVpbGRlcgp0YXJnZXQvCgojIEp1cHl0ZXIgTm90ZWJvb2sKLmlweW5iX2NoZWNrcG9pbnRzCgojIHB5ZW52Ci5weXRob24tdmVyc2lvbgoKIyBjZWxlcnkgYmVhdCBzY2hlZHVsZSBmaWxlCmNlbGVyeWJlYXQtc2NoZWR1bGUKCiMgU2FnZU1hdGggcGFyc2VkIGZpbGVzCiouc2FnZS5weQoKIyBFbnZpcm9ubWVudHMKLmVudgoudmVudgplbnYvCnZlbnYvCkVOVi8KZW52LmJhay8KdmVudi5iYWsvCgojIFNweWRlciBwcm9qZWN0IHNldHRpbmdzCi5zcHlkZXJwcm9qZWN0Ci5zcHlwcm9qZWN0CgojIFJvcGUgcHJvamVjdCBzZXR0aW5ncwoucm9wZXByb2plY3QKCiMgbWtkb2NzIGRvY3VtZW50YXRpb24KL3NpdGUKCiMgbXlweQoubXlweV9jYWNoZS8K</text>
+      <register name="&quot;" type="4">
+        <text>ALLOWED_HOSTS</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>ALLOWED_HOSTS</text>
       </register>
       <register name="/" type="4">
-        <text>__</text>
+        <text>ALL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDIGV4dGVuc2lvbnMKKi5zbwoKIyBEaXN0cmlidXRpb24gLyBwYWNrYWdpbmcKLlB5dGhvbgpidWlsZC8KZGV2ZWxvcC1lZ2dzLwpkaXN0Lwpkb3dubG9hZHMvCmVnZ3MvCi5lZ2dzLwpsaWIvCmxpYjY0LwpwYXJ0cy8Kc2Rpc3QvCnZhci8Kd2hlZWxzLwoqLmVnZy1pbmZvLwouaW5zdGFsbGVkLmNmZwoqLmVnZwpNQU5JRkVTVAoKIyBQeUluc3RhbGxlcgojICBVc3VhbGx5IHRoZXNlIGZpbGVzIGFyZSB3cml0dGVuIGJ5IGEgcHl0aG9uIHNjcmlwdCBmcm9tIGEgdGVtcGxhdGUKIyAgYmVmb3JlIFB5SW5zdGFsbGVyIGJ1aWxkcyB0aGUgZXhlLCBzbyBhcyB0byBpbmplY3QgZGF0ZS9vdGhlciBpbmZvcyBpbnRvIGl0LgoqLm1hbmlmZXN0Ciouc3BlYwoKIyBJbnN0YWxsZXIgbG9ncwpwaXAtbG9nLnR4dApwaXAtZGVsZXRlLXRoaXMtZGlyZWN0b3J5LnR4dAoKIyBVbml0IHRlc3QgLyBjb3ZlcmFnZSByZXBvcnRzCmh0bWxjb3YvCi50b3gvCi5jb3ZlcmFnZQouY292ZXJhZ2UuKgouY2FjaGUKbm9zZXRlc3RzLnhtbApjb3ZlcmFnZS54bWwKKi5jb3ZlcgouaHlwb3RoZXNpcy8KLnB5dGVzdF9jYWNoZS8KCiMgVHJhbnNsYXRpb25zCioubW8KKi5wb3QKCiMgRGphbmdvIHN0dWZmOgoqLmxvZwpsb2NhbF9zZXR0aW5ncy5weQpkYi5zcWxpdGUzCgojIEZsYXNrIHN0dWZmOgppbnN0YW5jZS8KLndlYmFzc2V0cy1jYWNoZQoKIyBTY3JhcHkgc3R1ZmY6Ci5zY3JhcHkKCiMgU3BoaW54IGRvY3VtZW50YXRpb24KZG9jcy9fYnVpbGQvCgojIFB5QnVpbGRlcgp0YXJnZXQvCgojIEp1cHl0ZXIgTm90ZWJvb2sKLmlweW5iX2NoZWNrcG9pbnRzCgojIHB5ZW52Ci5weXRob24tdmVyc2lvbgoKIyBjZWxlcnkgYmVhdCBzY2hlZHVsZSBmaWxlCmNlbGVyeWJlYXQtc2NoZWR1bGUKCiMgU2FnZU1hdGggcGFyc2VkIGZpbGVzCiouc2FnZS5weQoKIyBFbnZpcm9ubWVudHMKLmVudgoudmVudgplbnYvCnZlbnYvCkVOVi8KZW52LmJhay8KdmVudi5iYWsvCgojIFNweWRlciBwcm9qZWN0IHNldHRpbmdzCi5zcHlkZXJwcm9qZWN0Ci5zcHlwcm9qZWN0CgojIFJvcGUgcHJvamVjdCBzZXR0aW5ncwoucm9wZXByb2plY3QKCiMgbWtkb2NzIGRvY3VtZW50YXRpb24KL3NpdGUKCiMgbXlweQoubXlweV9jYWNoZS8K</text>
+        <text encoding="base64">ICAgICcxOTguMTMuMzYuMTcxJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDIGV4dGVuc2lvbnMKKi5zbwoKIyBEaXN0cmlidXRpb24gLyBwYWNrYWdpbmcKLlB5dGhvbgpidWlsZC8KZGV2ZWxvcC1lZ2dzLwpkaXN0Lwpkb3dubG9hZHMvCmVnZ3MvCi5lZ2dzLwpsaWIvCmxpYjY0LwpwYXJ0cy8Kc2Rpc3QvCnZhci8Kd2hlZWxzLwoqLmVnZy1pbmZvLwouaW5zdGFsbGVkLmNmZwoqLmVnZwpNQU5JRkVTVAoKIyBQeUluc3RhbGxlcgojICBVc3VhbGx5IHRoZXNlIGZpbGVzIGFyZSB3cml0dGVuIGJ5IGEgcHl0aG9uIHNjcmlwdCBmcm9tIGEgdGVtcGxhdGUKIyAgYmVmb3JlIFB5SW5zdGFsbGVyIGJ1aWxkcyB0aGUgZXhlLCBzbyBhcyB0byBpbmplY3QgZGF0ZS9vdGhlciBpbmZvcyBpbnRvIGl0LgoqLm1hbmlmZXN0Ciouc3BlYwoKIyBJbnN0YWxsZXIgbG9ncwpwaXAtbG9nLnR4dApwaXAtZGVsZXRlLXRoaXMtZGlyZWN0b3J5LnR4dAoKIyBVbml0IHRlc3QgLyBjb3ZlcmFnZSByZXBvcnRzCmh0bWxjb3YvCi50b3gvCi5jb3ZlcmFnZQouY292ZXJhZ2UuKgouY2FjaGUKbm9zZXRlc3RzLnhtbApjb3ZlcmFnZS54bWwKKi5jb3ZlcgouaHlwb3RoZXNpcy8KLnB5dGVzdF9jYWNoZS8KCiMgVHJhbnNsYXRpb25zCioubW8KKi5wb3QKCiMgRGphbmdvIHN0dWZmOgoqLmxvZwpsb2NhbF9zZXR0aW5ncy5weQpkYi5zcWxpdGUzCgojIEZsYXNrIHN0dWZmOgppbnN0YW5jZS8KLndlYmFzc2V0cy1jYWNoZQoKIyBTY3JhcHkgc3R1ZmY6Ci5zY3JhcHkKCiMgU3BoaW54IGRvY3VtZW50YXRpb24KZG9jcy9fYnVpbGQvCgojIFB5QnVpbGRlcgp0YXJnZXQvCgojIEp1cHl0ZXIgTm90ZWJvb2sKLmlweW5iX2NoZWNrcG9pbnRzCgojIHB5ZW52Ci5weXRob24tdmVyc2lvbgoKIyBjZWxlcnkgYmVhdCBzY2hlZHVsZSBmaWxlCmNlbGVyeWJlYXQtc2NoZWR1bGUKCiMgU2FnZU1hdGggcGFyc2VkIGZpbGVzCiouc2FnZS5weQoKIyBFbnZpcm9ubWVudHMKLmVudgoudmVudgplbnYvCnZlbnYvCkVOVi8KZW52LmJhay8KdmVudi5iYWsvCgojIFNweWRlciBwcm9qZWN0IHNldHRpbmdzCi5zcHlkZXJwcm9qZWN0Ci5zcHlwcm9qZWN0CgojIFJvcGUgcHJvamVjdCBzZXR0aW5ncwoucm9wZXByb2plY3QKCiMgbWtkb2NzIGRvY3VtZW50YXRpb24KL3NpdGUKCiMgbXlweQoubXlweV9jYWNoZS8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -798,28 +805,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmVudi5iYWsvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW52LmJhay8K</text>
+        <text encoding="base64">dmVudi5iYWsvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5WLwo=</text>
+        <text encoding="base64">ZW52LmJhay8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmVudi8K</text>
+        <text encoding="base64">RU5WLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW52Lwo=</text>
+        <text encoding="base64">dmVudi8K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
       </register>
     </registers>
     <search>
-      <last-search>__</last-search>
+      <last-search>ALL</last-search>
       <last-offset />
-      <last-pattern>__</last-pattern>
+      <last-pattern>ALL</last-pattern>
       <last-replace>pass</last-replace>
       <last-substitute>Pass</last-substitute>
       <last-dir>1</last-dir>
@@ -827,11 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def assert</entry>
-        <entry encoding="base64">XDxLZXlzXD4=</entry>
-        <entry>sleep</entry>
-        <entry encoding="base64">XDxjaGVja19mb3Jfcm93X2luX2xpc3RfdGFibGVcPg==</entry>
-        <entry>assertIn</entry>
         <entry>one</entry>
         <entry encoding="base64">XDxhc3NlcnRUZW1wbGF0ZVVzZWRcPg==</entry>
         <entry encoding="base64">XDx1c2VyMV9saXN0XD4=</entry>
@@ -847,6 +849,11 @@
         <entry>set</entry>
         <entry>migrations</entry>
         <entry>__</entry>
+        <entry>arrow</entry>
+        <entry>allow</entry>
+        <entry>a</entry>
+        <entry>ow</entry>
+        <entry>ALL</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@log_it/####/gc</entry>

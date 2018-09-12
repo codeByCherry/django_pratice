@@ -27,6 +27,9 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="4" />
       </file>
+      <file name="/a.dummy" timestamp="1536742980763">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AA_Codes/Alexa_python/skill/ask-sdk/hello_world.py" timestamp="1531896858868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -353,6 +356,9 @@
         <mark key="]" line="2" column="10" />
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/Fabric_demo/main.py" timestamp="1536742870056">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial2/mysite/polls/tests.py" timestamp="1535080827122">
         <mark key="[" line="32" column="78" />
@@ -700,7 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="145" column="6" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
       <jump line="256" column="17" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
       <jump line="262" column="17" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
@@ -800,6 +805,7 @@
       <jump line="58" column="6" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
       <jump line="32" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
       <jump line="116" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
+      <jump line="1" column="16" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/Fabric_demo/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">

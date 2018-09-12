@@ -60,13 +60,6 @@
       <file name="templates/admin/base.html" timestamp="1536381664000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/black_hat_python/tcp_client.py" timestamp="1536483044288">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="33" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="7" column="33" />
-      </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/templates/lists/home_page.html" timestamp="1536637558648">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="2" column="0" />
@@ -168,13 +161,6 @@
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/superlists/lists/tests.py" timestamp="1536666420852">
-        <mark key="'" line="46" column="47" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="106" column="29" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/urls.py" timestamp="1536737175080">
         <mark key="[" line="23" column="13" />
@@ -374,6 +360,12 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
       </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/superlists_systemd.service" timestamp="1536740455895">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="13" column="1" />
+      </file>
       <file name="$USER_HOME$/codes/Flask_demo/micblog/config.py" timestamp="1530783352644">
         <mark key="[" line="7" column="42" />
         <mark key="]" line="8" column="3" />
@@ -424,7 +416,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/staging_nginx_unix_socket_config" timestamp="1536737541026">
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/staging_nginx_unix_socket_config" timestamp="1536739930552">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="0" column="7" />
@@ -445,13 +437,6 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" timestamp="1536565225986">
-        <mark key="'" line="1" column="43" />
-        <mark key="[" line="50" column="50" />
-        <mark key="]" line="50" column="51" />
-        <mark key="." line="50" column="51" />
-        <mark key="^" line="49" column="51" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_tutorial/mysite/polls/admin.py" timestamp="1534387016649">
         <mark key="[" line="6" column="20" />
@@ -660,7 +645,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536738143372" />
+      <file name="/Dummy.txt" timestamp="1536740010715" />
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/__init__.py" timestamp="1530798749696">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="8" column="23" />
@@ -823,11 +808,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICc2Ni40Mi42Mi4zNicsCg==</text>
+      <register name="&quot;" type="4">
+        <text>install</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>install</text>
       </register>
       <register name="/" type="4">
         <text>DEBUG</text>

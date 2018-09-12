@@ -6,6 +6,7 @@
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern=".main.py.swp" type="PLAIN_TEXT" />
       <mapping pattern="results" type="PLAIN_TEXT" />
+      <mapping pattern="superlists_systemd_service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="hw" type="Python" />
       <mapping pattern="settings" type="Python" />

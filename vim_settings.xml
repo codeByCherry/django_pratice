@@ -100,6 +100,12 @@
         <mark key="^" line="31" column="31" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/superlists_systemd_service" timestamp="1536737110887">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+      </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_blog/mysite/blog/models.py" timestamp="1534411507377">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="8" />
@@ -129,6 +135,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/staging_nginx_port_config" timestamp="1536737453393">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="120" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/python3_codes/Flask_blog/app/templates/register.html" timestamp="1525920285900">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="27" />
@@ -146,12 +157,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" timestamp="1536734936817">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="115" column="17" />
-        <mark key="]" line="115" column="17" />
-        <mark key="." line="115" column="17" />
-        <mark key="^" line="115" column="22" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" timestamp="1536738076745">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="14" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/blog/title.html" timestamp="1535825882904">
         <mark key="[" line="7" column="13" />
@@ -165,11 +176,11 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="106" column="29" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/urls.py" timestamp="1536685844965">
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/urls.py" timestamp="1536737175080">
         <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="23" column="12" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/django_pratice实战/mysite/templates/blog/index.html" timestamp="1536302690306">
         <mark key="[" line="14" column="23" />
@@ -413,6 +424,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/staging_nginx_unix_socket_config" timestamp="1536737541026">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/lists/static/base.css" timestamp="1536675262232">
         <mark key="[" line="0" column="14" />
       </file>
@@ -584,10 +601,11 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/staging_config" timestamp="1536726580109">
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/staging_config" timestamp="1536736712746">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/README.md" timestamp="1536395349334">
         <mark key="[" line="2" column="0" />
@@ -642,9 +660,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536734985316">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1536738143372" />
       <file name="$USER_HOME$/codes/Flask_demo/micblog/app/__init__.py" timestamp="1530798749696">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="8" column="23" />
@@ -700,7 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="6" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/functional_tests.py" />
       <jump line="145" column="6" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
       <jump line="256" column="17" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/django_TDD/.env/lib/python3.6/site-packages/django/test/testcases.py" />
@@ -800,6 +815,7 @@
       <jump line="126" column="41" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
       <jump line="58" column="6" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
       <jump line="32" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/superlists/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -807,53 +823,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>zh-hans</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICc2Ni40Mi42Mi4zNicsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>zh-hans</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>UTC</text>
+        <text>DEBUG</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGgxIGlkPSJzaXRlLW5hbWUiPjxhIGhyZWY9InslIHVybCAnYWRtaW46aW5kZXgnICV9Ij57eyBzaXRlX2hlYWRlcnxkZWZhdWx0Ol8oJ0RqYW5nbyBhZG1pbmlzdHJhdGlvbicpIH19PC9hPjwvaDE+Cg==</text>
+        <text encoding="base64">IyDlsIbmnKzmlofku7ZjcOWIsCAvZXRjL25naW54L3NpdGVzLWF2YWlsYWJsZSDnhLblkI7lnKggc2l0ZXMtZW5hYmxlIOS4reWIm+W7uuacrOaWh+S7tueahOi/nuaOpSBsbiAtcyDjgILms6jmhI9uZ2lueCDmnInkuKTnp43phY3nva7mlrnlvI/vvIzov5nnp43mmK/pgJrov4fphY3nva4gcG9ydO+8jOWPpuWkluS4gOenjeaYr+mFjee9riB1bml4IHNvY2tldOOAggo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN1cGVybGlzdHMubGlzdHMudmlld3MK</text>
+        <text encoding="base64">ICAgICc2Ni40Mi42Mi4zNicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICcxOTguMTMuMzYuMTcxJywK</text>
+        <text encoding="base64">ICAgICdsb2NhbGhvc3QnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDIGV4dGVuc2lvbnMKKi5zbwoKIyBEaXN0cmlidXRpb24gLyBwYWNrYWdpbmcKLlB5dGhvbgpidWlsZC8KZGV2ZWxvcC1lZ2dzLwpkaXN0Lwpkb3dubG9hZHMvCmVnZ3MvCi5lZ2dzLwpsaWIvCmxpYjY0LwpwYXJ0cy8Kc2Rpc3QvCnZhci8Kd2hlZWxzLwoqLmVnZy1pbmZvLwouaW5zdGFsbGVkLmNmZwoqLmVnZwpNQU5JRkVTVAoKIyBQeUluc3RhbGxlcgojICBVc3VhbGx5IHRoZXNlIGZpbGVzIGFyZSB3cml0dGVuIGJ5IGEgcHl0aG9uIHNjcmlwdCBmcm9tIGEgdGVtcGxhdGUKIyAgYmVmb3JlIFB5SW5zdGFsbGVyIGJ1aWxkcyB0aGUgZXhlLCBzbyBhcyB0byBpbmplY3QgZGF0ZS9vdGhlciBpbmZvcyBpbnRvIGl0LgoqLm1hbmlmZXN0Ciouc3BlYwoKIyBJbnN0YWxsZXIgbG9ncwpwaXAtbG9nLnR4dApwaXAtZGVsZXRlLXRoaXMtZGlyZWN0b3J5LnR4dAoKIyBVbml0IHRlc3QgLyBjb3ZlcmFnZSByZXBvcnRzCmh0bWxjb3YvCi50b3gvCi5jb3ZlcmFnZQouY292ZXJhZ2UuKgouY2FjaGUKbm9zZXRlc3RzLnhtbApjb3ZlcmFnZS54bWwKKi5jb3ZlcgouaHlwb3RoZXNpcy8KLnB5dGVzdF9jYWNoZS8KCiMgVHJhbnNsYXRpb25zCioubW8KKi5wb3QKCiMgRGphbmdvIHN0dWZmOgoqLmxvZwpsb2NhbF9zZXR0aW5ncy5weQpkYi5zcWxpdGUzCgojIEZsYXNrIHN0dWZmOgppbnN0YW5jZS8KLndlYmFzc2V0cy1jYWNoZQoKIyBTY3JhcHkgc3R1ZmY6Ci5zY3JhcHkKCiMgU3BoaW54IGRvY3VtZW50YXRpb24KZG9jcy9fYnVpbGQvCgojIFB5QnVpbGRlcgp0YXJnZXQvCgojIEp1cHl0ZXIgTm90ZWJvb2sKLmlweW5iX2NoZWNrcG9pbnRzCgojIHB5ZW52Ci5weXRob24tdmVyc2lvbgoKIyBjZWxlcnkgYmVhdCBzY2hlZHVsZSBmaWxlCmNlbGVyeWJlYXQtc2NoZWR1bGUKCiMgU2FnZU1hdGggcGFyc2VkIGZpbGVzCiouc2FnZS5weQoKIyBFbnZpcm9ubWVudHMKLmVudgoudmVudgplbnYvCnZlbnYvCkVOVi8KZW52LmJhay8KdmVudi5iYWsvCgojIFNweWRlciBwcm9qZWN0IHNldHRpbmdzCi5zcHlkZXJwcm9qZWN0Ci5zcHlwcm9qZWN0CgojIFJvcGUgcHJvamVjdCBzZXR0aW5ncwoucm9wZXByb2plY3QKCiMgbWtkb2NzIGRvY3VtZW50YXRpb24KL3NpdGUKCiMgbXlweQoubXlweV9jYWNoZS8K</text>
+        <text encoding="base64">ICAgICcxMjcuMC4wLjEnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3h5X3Bhc3MgaHR0cDovLzEyNy4wLjAuMTo4MDAwLzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyDlsIbmnKzmlofku7ZjcOWIsCAvZXRjL25naW54L3NpdGVzLWF2YWlsYWJsZSDnhLblkI7lnKggc2l0ZXMtZW5hYmxlIOS4reWIm+W7uuacrOaWh+S7tueahOi/nuaOpSBsbiAtcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyDlsIbmnKzmlofku7ZjcOWIsCAvZXRjL25naW54L3NpdGVzLWF2YWlsYWJsZSDnhLblkI7lnKggc2l0ZXMtZW5hYmxlIOS4reWIm+W7uuacrOaWh+S7tueahOi/nuaOpSBsbiAtcyDjgILms6jmhI9uZ2lueCDmnInkuKTnp43phY3nva7mlrnlvI/vvIzov5nnp43mmK/pgJrov4fphY3nva4gcG9ydO+8jOWPpuWkluS4gOenjeaYr+mFjee9riB1bml4IHNvY2tldOOAggo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmVudi5iYWsvCg==</text>
+        <text encoding="base64">IyDlsIbmnKzmlofku7ZjcOWIsCAvZXRjL25naW54L3NpdGVzLWF2YWlsYWJsZSDnhLblkI7lnKggc2l0ZXMtZW5hYmxlIOS4reWIm+W7uuacrOaWh+S7tueahOi/nuaOpSBsbiAtcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW52LmJhay8K</text>
+        <text encoding="base64">aW1wb3J0IHN1cGVybGlzdHMubGlzdHMudmlld3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WLwo=</text>
+        <text encoding="base64">ICAgICcxOTguMTMuMzYuMTcxJywK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
       </register>
     </registers>
     <search>
-      <last-search>UTC</last-search>
+      <last-search>DEBUG</last-search>
       <last-offset />
-      <last-pattern>UTC</last-pattern>
+      <last-pattern>DEBUG</last-pattern>
       <last-replace>pass</last-replace>
       <last-substitute>Pass</last-substitute>
       <last-dir>1</last-dir>
@@ -861,7 +877,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyMV9saXN0XD4=</entry>
         <entry encoding="base64">XDx1c2VyMl9saXN0XD4=</entry>
         <entry encoding="base64">XDx1c2VyMV9pdGVtXD4=</entry>
         <entry encoding="base64">XDxzYXZlZF9pdGVtMVw+</entry>
@@ -881,6 +896,7 @@
         <entry>ALL</entry>
         <entry>LL</entry>
         <entry>UTC</entry>
+        <entry>DEBUG</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@log_it/####/gc</entry>

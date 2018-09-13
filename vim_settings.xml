@@ -15,11 +15,12 @@
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/blog/templatetags/blog_tag.py" timestamp="1536826848220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/blog/templatetags/blog_tags.py" timestamp="1536831776747">
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/blog/templatetags/blog_tags.py" timestamp="1536851269509">
         <mark key="'" line="37" column="14" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/blogproject/settings.py" timestamp="1536812349073">
         <mark key="'" line="0" column="0" />
@@ -99,12 +100,12 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/templates/base.html" timestamp="1536832228298">
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/templates/base.html" timestamp="1536850582938">
         <mark key="'" line="0" column="3" />
-        <mark key="[" line="79" column="62" />
-        <mark key="]" line="79" column="58" />
-        <mark key="^" line="79" column="58" />
-        <mark key="." line="79" column="58" />
+        <mark key="[" line="81" column="45" />
+        <mark key="]" line="81" column="73" />
+        <mark key="^" line="81" column="73" />
+        <mark key="." line="81" column="73" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/lists/static/base.css" timestamp="1536675262232">
         <mark key="[" line="0" column="14" />
@@ -273,10 +274,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuLm1vZGVscyBpbXBvcnQgVGFnCg==</text>
+        <text encoding="base64">Z2l0IHB1bGwK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>load</text>
@@ -285,31 +286,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9InslIHBvc3QuZ2V0X2Fic29sdXRlX3VybCAlfSI+e3twb3N0LnRpdGxlfX08L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuLm1vZGVscyBpbXBvcnQgVGFnCg==</text>
+        <text encoding="base64">Z2l0IHB1bGwK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Z2l0IHB1bGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgbG9hZCBibG9nX3RhZ3MgJX0K</text>
+        <text encoding="base64">Z2l0IHB1bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCEtLXslIGxvYWQgYmxvZ190YWdzICV9LS0+Cg==</text>
+        <text encoding="base64">Z2l0IHB1c2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZm9yIHBvc3QgaW4gcmVjZW50Cg==</text>
+        <text encoding="base64">Z2l0IHB1c2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiPumDqOe9siBEamFuZ28g5Y2a5a6iPC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>

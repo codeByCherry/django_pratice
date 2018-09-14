@@ -32,7 +32,7 @@
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/django_TDD/superlists/lists/models.py" timestamp="1536733538921">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/blog/models.py" timestamp="1536821248322">
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/blog/models.py" timestamp="1536890786514">
         <mark key="'" line="43" column="7" />
         <mark key="[" line="43" column="31" />
         <mark key="]" line="2" column="30" />
@@ -140,11 +140,11 @@
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/blog/static/blog/index.html" timestamp="1536811139012">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/blog/views.py" timestamp="1536825770139">
-        <mark key="[" line="29" column="40" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="41" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/blog/views.py" timestamp="1536890882881">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="46" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/AA_Codes/django_codes/python_tdd4_with_ENV/projects/blogproject/README.md" timestamp="1536806683939">
         <mark key="[" line="1" column="0" />
@@ -274,10 +274,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgIHBvc3RfbGlzdCA9IFBvc3Qub2JqZWN0cy5hbGwoKS5maWx0ZXIoaXNfZGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>cotegory_li</text>
+        <text>created_time==year</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
@@ -286,34 +286,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9InslIHBvc3QuZ2V0X2Fic29sdXRlX3VybCAlfSI+e3twb3N0LnRpdGxlfX08L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgIHBvc3RfbGlzdCA9IFBvc3Qub2JqZWN0cy5hbGwoKS5maWx0ZXIoaXNfZGUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSIjIj4yMDE3IOW5tCAzIOaciDwvYT4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaT4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSIjIj4yMDE3IOW5tCAzIOaciDwvYT4tLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSIjIj4yMDE3IOW5tCA0IOaciDwvYT4tLT4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaT4tLT4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSIjIj4yMDE3IOW5tCA0IOaciDwvYT4tLT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaT4tLT4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSIjIj4yMDE3IOW5tCA1IOaciDwvYT4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTwvbGk+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGRkZCAgIDwhLS08bGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSIjIj4yMDE3IOW5tCA1IOaciDwvYT4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
